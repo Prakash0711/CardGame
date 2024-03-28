@@ -57,4 +57,5 @@ def print_deck(lst):
 
 def deal_deck(deck, players):
     pass
+print("Hi")
 
